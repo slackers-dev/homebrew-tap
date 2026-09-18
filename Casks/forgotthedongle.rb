@@ -1,6 +1,6 @@
 cask "forgotthedongle" do
-  version "1.0"
-  sha256 "4dbd1f512da224032e83e02b6fe6c801dd7c66324f678868f4431b225b6eea89"
+  version "1.0.1"
+  sha256 "fcba1a996de5bac1f6e055cd936d5b66f0250c4cb1defce66cefeeefa2575b72"
 
   url "https://github.com/slackers-dev/homebrew-tap/releases/download/v#{version}/ForgotTheDongle-#{version}.dmg"
   name "ForgotTheDongle"
