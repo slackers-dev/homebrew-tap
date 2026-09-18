@@ -2,8 +2,7 @@ cask "forgotthedongle" do
   version "1.0"
   sha256 "4dbd1f512da224032e83e02b6fe6c801dd7c66324f678868f4431b225b6eea89"
 
-  url "https://github.com/slackers-dev/homebrew-tap/releases/download/v#{version}/ForgotTheDongle-#{version}.dmg",
-      verified: "github.com/slackers-dev/homebrew-tap/"
+  url "https://github.com/slackers-dev/homebrew-tap/releases/download/v#{version}/ForgotTheDongle-#{version}.dmg"
   name "ForgotTheDongle"
   desc "Use your iPhone as a mouse, trackpad or presenter remote"
   homepage "https://forgotthedongle.slackers.dev/"
